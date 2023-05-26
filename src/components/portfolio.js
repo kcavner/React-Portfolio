@@ -30,8 +30,8 @@ const portfolioItems = [
     },
     {
       id: 6,
-      imageSrc: '../assets/workday.jpg',
-      github: 'https://github.com/kcavner/work-day-scheduler',
+      imageSrc: '../assets/ezl.jpg',
+      github: 'https://github.com/kcavner/Ezleagues',
     },
   ];
 
